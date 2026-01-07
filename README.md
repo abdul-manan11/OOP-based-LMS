@@ -1,8 +1,8 @@
 # Learning Management System (LMS) – C++ & Qt
 
-This project is a **desktop-based Learning Management System (LMS)** developed as a **semester project** using **C++ and the Qt Framework**. The application demonstrates how a basic academic management system can be built using object-oriented programming and a graphical user interface.
+This project is a **desktop-based Learning Management System (LMS)** developed using **C++ and the Qt Framework**. The application demonstrates how a basic academic management system can be implemented through object-oriented programming and a graphical user interface.
 
-The system follows a **role-based design**, providing separate functionality for **Admin, Faculty, and Students**. Each role has its own dashboard and responsibilities, ensuring organized and controlled access to academic data.
+The system follows a **role-based design**, providing separate functionality for **Admin, Faculty, and Students**. Each role has its own dashboard and defined responsibilities to ensure organized and controlled access to system features.
 
 ---
 
@@ -26,11 +26,11 @@ The system follows a **role-based design**, providing separate functionality for
 ---
 
 ## Project Objective
-The main objective of this project is to apply and demonstrate:
-- Core object-oriented programming concepts
+The main objective of this project is to demonstrate:
+- Practical use of object-oriented programming concepts
 - GUI-based desktop application development
-- Role-based access control
-- Semester-level software design using C++ and Qt
+- Role-based system design
+- Modular software development using C++ and Qt
 
 ---
 
@@ -39,6 +39,3 @@ The main objective of this project is to apply and demonstrate:
 2. Select a compatible Qt version
 3. Configure a supported compiler (MinGW or equivalent)
 4. Build and run the project
-
----
-
