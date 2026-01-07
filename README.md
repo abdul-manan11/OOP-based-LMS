@@ -42,6 +42,3 @@ The main objective of this project is to apply and demonstrate:
 
 ---
 
-## Academic Note
-This project is developed for **educational purposes only** as part of a university semester requirement.
-
